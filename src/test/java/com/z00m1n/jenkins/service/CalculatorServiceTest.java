@@ -1,7 +1,6 @@
-package com.ohgiraffers.bootproject.service;
+package com.z00m1n.jenkins.service;
 
 import com.z00m1n.jenkins.dto.CalculatorDTO;
-import com.z00m1n.jenkins.service.CalculatorService;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
